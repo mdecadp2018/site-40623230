@@ -7,4 +7,4 @@
 
 網誌:https://mdecadp2018.github.io/site-40623230/blog
 
-投影片:https://mdecadp2018.github.io/site-40623230/reveall
+投影片:https://mdecadp2018.github.io/site-40623230/reveal/
