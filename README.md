@@ -5,6 +5,6 @@
 
 網站:https://mdecadp2018.github.io/site-40623230
 
-網誌:https://mdecadp2018.github.io/site-40623230/blog
+網誌:https://mdecadp2018.github.io/site-40623230/blog/index.html
 
 投影片:https://mdecadp2018.github.io/site-40623230/reveal/
