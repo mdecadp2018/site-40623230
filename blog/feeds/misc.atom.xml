@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623230/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623230/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623230/blog/</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌1</title><link href="https://mdecadp2018.github.io/site-40623230/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623230/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623230/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623230/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623230/blog/</id><updated>2018-09-17T11:00:00+08:00</updated><entry><title>Week2</title><link href="https://mdecadp2018.github.io/site-40623230/blog/2018-Fall-Project-Blog1.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-17:/site-40623230/blog/2018-Fall-Project-Blog1.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;Week2&lt;/h2&gt;
+&lt;p&gt;進入GitHub領取個人倉儲(mdecadp2018/site-40623230)，&lt;/p&gt;
+&lt;p&gt;並將site-40623230的分支(Branches)更改為gh-pages。&lt;/p&gt;</content><category term="2018Fall2"></category></entry><entry><title>2018 Fall 分組網誌1</title><link href="https://mdecadp2018.github.io/site-40623230/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623230/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
@@ -17,9 +21,13 @@
 
 &lt;h2&gt;Week2&lt;/h2&gt;
 &lt;p&gt;進入GitHub領取個人倉儲(mdecadp2018/site-40623230)，&lt;/p&gt;
-&lt;p&gt;並將site-40623230的分支(Branches)更改為gh-pages。&lt;/p&gt;</content><category term="2018Fall2"></category></entry><entry><title>Week1</title><link href="https://mdecadp2018.github.io/site-40623230/blog/2018-Fall-Project-Blog2.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623230/blog/2018-Fall-Project-Blog2.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;並將site-40623230的分支(Branches)更改為gh-pages。&lt;/p&gt;</content><category term="2018Fall2"></category></entry><entry><title>Week1</title><link href="https://mdecadp2018.github.io/site-40623230/blog/2018-Fall-Project-Blog2.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623230/blog/2018-Fall-Project-Blog2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
+&lt;h2&gt;課程倉儲&lt;/h2&gt;
+&lt;p&gt;在github上建立一個新倉儲 "學號.githb.io"&lt;/p&gt;
+&lt;p&gt;以2018fall為示範倉儲，將2018fall及40623230.github.io clone下來&lt;/p&gt;
+&lt;p&gt;將除了.git、REABME.me的檔案複製到自己資料夾，使用git add . 、 git commit -m ""、git push提交至GitHub。&lt;/p&gt;
+&lt;p&gt;使用python wsgi.py 進入近端(localhost:8443)，將標題更改為"2018 Fall 40623230 分組網站"，再重新提交至GitHub。&lt;/p&gt;</content><category term="2018Fall1"></category></entry><entry><title>Week1</title><link href="https://mdecadp2018.github.io/site-40623230/blog/2018-Fall-Project-Blog2.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623230/blog/2018-Fall-Project-Blog2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;課程倉儲&lt;/h2&gt;
 &lt;p&gt;在github上建立一個新倉儲 "學號.githb.io"&lt;/p&gt;
